@@ -84,5 +84,9 @@ with st.container():
             st.error("The customer is likely to **leave** 😔")
         else:
             st.success("The customer is likely to **stay** 😀")
-        
+st.markdown(
+    """
+    © гเן๏ ร lคl
+    """
+)
         
