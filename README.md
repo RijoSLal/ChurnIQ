@@ -32,7 +32,7 @@ This application is built to predict customer churn based on customer demographi
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ChurnIQ.git
+   git clone https://github.com/RijoSLal/ChurnIQ.git
    cd ChurnIQ
    ```
 
